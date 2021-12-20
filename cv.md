@@ -25,11 +25,12 @@ tenacity should help me with this.
 ****************
 ## Code Example
 ```
-const showCurrentDay = (month, day) => {
-  console.log(`Today is: ${month} ${day}`);
-};
+function sum(a, b) {
+  return a + b;
+}
 
-showCurrentDay('January', '29');
+let result = sum(1, 2);
+alert( result );
 ```
 ****************
 ## Education
